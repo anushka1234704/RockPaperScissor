@@ -29,10 +29,10 @@ the player Loses.
 1. Compile the program using a C compiler (like GCC).
 
 
-2. Run the file.
+3. Run the file.
 
 
-3. Enter your choice (1–3).
+4. Enter your choice (1–3).
 
 
-4. See the result of the GAME.
+5. See the result of the GAME.
